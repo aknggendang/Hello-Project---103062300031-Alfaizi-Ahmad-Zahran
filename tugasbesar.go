@@ -3,6 +3,8 @@
 // ini juga baris baru
 
 // menambhkan commit baru
+
+// baris baruuu
 package main
 
 import (

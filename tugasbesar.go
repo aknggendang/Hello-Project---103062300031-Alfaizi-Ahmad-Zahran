@@ -2,9 +2,6 @@
 
 // ini juga baris baru
 
-// ini adalah baris paling baruuu
-
-// baris baru
 package main
 
 import (

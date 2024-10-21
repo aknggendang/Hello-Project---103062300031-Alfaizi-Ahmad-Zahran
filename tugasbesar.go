@@ -5,6 +5,8 @@
 // menambhkan commit baru
 
 // baris baruuu
+
+// baris 2
 package main
 
 import (
